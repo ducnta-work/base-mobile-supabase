@@ -1,0 +1,117 @@
+{
+  "app_name": "My App",
+  "error": "Error",
+  "retry": "Retry",
+  "sign_in": {
+    "title": "Sign In",
+    "welcome_to": "Welcome to",
+    "start_now": "Start Now",
+    "login_with": "Or sign in with",
+    "login_with_google": "Sign in with Google",
+    "login_with_apple": "Sign in with Apple"
+  },
+  "create_profile": {
+    "title": "Create Profile",
+    "what_your_name": "What's your name?",
+    "your_name": "Your name",
+    "pick_an_avatar": "Pick an avatar",
+    "save": "Save",
+    "greeting": "Welcome, {{name}}!"
+  },
+  "update_profile": {
+    "title": "Update Profile",
+    "what_your_name": "What's your name?",
+    "your_name": "Your name",
+    "pick_an_avatar": "Pick an avatar",
+    "save": "Save"
+  },
+  "home_tab": {
+    "title": "Home"
+  },
+  "common": {
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "delete": "Delete",
+    "save": "Save",
+    "prev": "Prev",
+    "next": "Next",
+    "close": "Close",
+    "cancel": "Cancel",
+    "done": "Done"
+  },
+  "profile": {
+    "title": "Profile",
+    "user_info": "Personal Information",
+    "basic_info": "Basic Information",
+    "delete_account": "Delete Account",
+    "delete_account_title": "Delete Account",
+    "delete_account_message": "Are you sure you want to delete your account? Your account will be deleted after 7 days. During this time, you can log in again to recover your account.",
+    "link_success": "Account linked successfully.",
+    "link_account": "Link Account",
+    "already_linked": "Your account is already linked.",
+    "support": "Support",
+    "feedback_app": "App Feedback",
+    "other": "Other",
+    "privacy_policy": "Privacy Policy",
+    "term_of_use": "Terms of Use",
+    "about_us": "About Us",
+    "sign_out": "Sign Out",
+    "sign_out_anonymous_title": "Unsaved Data Warning",
+    "sign_out_anonymous_message": "This temporary session isn't linked to any account. If you sign out now, ALL current data will be lost permanently. Do you still want to continue?"
+  },
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "intro": "This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the application. Please read this policy carefully.",
+    "data_collection": "1. Data Collection",
+    "data_collection_body": "We may collect personal information that you voluntarily provide when registering or using certain features. This may include name, email, usage data and device information.",
+    "data_usage": "2. How We Use Data",
+    "data_usage_body": "Collected data is used to operate core features, improve user experience, personalize content, provide support, enhance security and comply with legal obligations.",
+    "data_sharing": "3. Data Sharing",
+    "data_sharing_body": "We do not sell your personal information. We may share limited data with service providers strictly for app functionality (e.g. analytics, crash reporting) under confidentiality obligations.",
+    "security": "4. Security",
+    "security_body": "We implement reasonable technical and organizational measures to protect data; however, no method of transmission or storage is 100% secure. Users are encouraged to use strong credentials and keep them confidential.",
+    "user_rights": "5. Your Rights",
+    "user_rights_body": "Depending on jurisdiction, you may have rights to access, correct, delete or restrict certain processing of your personal data. Contact support for requests.",
+    "changes": "6. Changes to This Policy",
+    "changes_body": "We may update this policy periodically. Material changes will be communicated through in-app notifications or version notes. Continued use after changes constitutes acceptance.",
+    "contact": "7. Contact",
+    "contact_body": "If you have questions or concerns about this policy, please contact us via the support section inside the application."
+  },
+  "term_of_service": {
+    "title": "Terms of Service",
+    "intro": "These Terms of Service govern your use of the application. By accessing or using the app you agree to be bound by these terms.",
+    "license": "1. License & Access",
+    "license_body": "We grant you a limited, non-transferable, revocable license to use the application for personal, non-commercial purposes.",
+    "user_accounts": "2. User Accounts",
+    "user_accounts_body": "You are responsible for credentials confidentiality and all activities under your account.",
+    "acceptable_use": "3. Acceptable Use",
+    "acceptable_use_body": "Do not misuse the service, attempt unauthorized access, reverse engineer or disrupt functionality.",
+    "content": "4. Content & Data",
+    "content_body": "You retain rights to submitted content; we have a limited license to process it to provide functionality.",
+    "termination": "5. Suspension & Termination",
+    "termination_body": "We may suspend/terminate for violations or security risks. Some obligations survive termination.",
+    "disclaimer": "6. Disclaimers",
+    "disclaimer_body": "Service provided 'as is' without warranties of any kind.",
+    "limitation": "7. Limitation of Liability",
+    "limitation_body": "Liability limited to amount paid in prior 12 months where permitted by law.",
+    "changes": "8. Changes to Terms",
+    "changes_body": "We may update periodically; continued use constitutes acceptance.",
+    "contact": "9. Contact",
+    "contact_body": "Questions? Contact support through the application."
+  },
+  "about": {
+    "title": "About",
+    "executive_summary": "About This App",
+    "executive_summary_body": "A modern mobile application built with React Native and Supabase."
+  },
+  "settings": {
+    "group_title": "Settings",
+    "language_settings": "Language settings",
+    "language": {
+      "english": "English",
+      "vietnamese": "Vietnamese",
+      "japanese": "Japanese"
+    }
+  }
+}
