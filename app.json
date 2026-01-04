@@ -1,0 +1,95 @@
+{
+  "expo": {
+    "name": "Base Mobile App",
+    "slug": "base-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "usesAppleSignIn": true,
+      "supportsTablet": true,
+      "infoPlist": {
+        "CFBundleAllowMixedLocalizations": true,
+        "ExpoLocalization_supportsRTL": true,
+        "CFBundleLocalizations": [
+          "en",
+          "ja",
+          "vi"
+        ],
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "bundleIdentifier": "com.base.mobile.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "softwareKeyboardLayoutMode": "resize",
+      "package": "com.base.mobile.app"
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    },
+    "extra": {
+      "supportsRTL": true,
+      "eas": {
+        "projectId": "7daf7c9b-af87-4da0-be59-58715dd16385"
+      }
+    },
+    "experiments": {
+      "reactCompiler": true
+    },
+    "plugins": [
+      [
+        "expo-localization",
+        {
+          "supportedLocales": {
+            "ios": [
+              "en",
+              "ja",
+              "vi"
+            ],
+            "android": [
+              "en",
+              "ja",
+              "vi"
+            ]
+          }
+        }
+      ],
+      [
+        "react-native-edge-to-edge",
+        {
+          "android": {
+            "parentTheme": "Default",
+            "enforceNavigationBarContrast": false
+          }
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./src/assets/splash.png",
+          "enableFullScreenImage_legacy": true,
+          "resizeMode": "cover"
+        }
+      ],
+      [
+        "expo-font"
+      ],
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps.6640173543-pbcoi0qljn84blunour3s669arvg6rls"
+        }
+      ],
+      [
+        "expo-apple-authentication"
+      ]
+    ]
+  }
+}

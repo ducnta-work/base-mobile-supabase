@@ -1,0 +1,117 @@
+{
+  "app_name": "My App",
+  "error": "Lỗi",
+  "retry": "Thử lại",
+  "sign_in": {
+    "title": "Đăng nhập",
+    "welcome_to": "Chào mừng đến với",
+    "start_now": "Bắt đầu ngay",
+    "login_with": "Hoặc đăng nhập với",
+    "login_with_google": "Đăng nhập với Google",
+    "login_with_apple": "Đăng nhập với Apple"
+  },
+  "create_profile": {
+    "title": "Tạo hồ sơ",
+    "what_your_name": "Tên bạn là gì?",
+    "your_name": "Tên của bạn",
+    "pick_an_avatar": "Chọn một avatar",
+    "save": "Lưu",
+    "greeting": "Chào mừng, {{name}}!"
+  },
+  "update_profile": {
+    "title": "Cập nhật hồ sơ",
+    "what_your_name": "Tên bạn là gì?",
+    "your_name": "Tên của bạn",
+    "pick_an_avatar": "Chọn một avatar",
+    "save": "Lưu"
+  },
+  "home_tab": {
+    "title": "Trang chủ"
+  },
+  "common": {
+    "edit": "Sửa",
+    "create": "Tạo",
+    "update": "Cập nhật",
+    "delete": "Xóa",
+    "save": "Lưu",
+    "prev": "Trước",
+    "next": "Tiếp",
+    "close": "Đóng",
+    "cancel": "Hủy",
+    "done": "Xong"
+  },
+  "profile": {
+    "title": "Hồ sơ",
+    "user_info": "Thông tin cá nhân",
+    "basic_info": "Thông tin cơ bản",
+    "delete_account": "Xóa tài khoản",
+    "delete_account_title": "Xóa tài khoản",
+    "delete_account_message": "Bạn có chắc chắn muốn xóa tài khoản? Tài khoản của bạn sẽ bị xóa sau 7 ngày. Trong thời gian này, bạn có thể đăng nhập lại để khôi phục tài khoản.",
+    "link_success": "Liên kết tài khoản thành công.",
+    "link_account": "Liên kết tài khoản",
+    "already_linked": "Tài khoản của bạn đã được liên kết.",
+    "support": "Hỗ trợ",
+    "feedback_app": "Phản hồi ứng dụng",
+    "other": "Khác",
+    "privacy_policy": "Chính sách bảo mật",
+    "term_of_use": "Điều khoản sử dụng",
+    "about_us": "Về chúng tôi",
+    "sign_out": "Đăng xuất",
+    "sign_out_anonymous_title": "Cảnh báo dữ liệu chưa lưu",
+    "sign_out_anonymous_message": "Phiên tạm thời này chưa được liên kết với tài khoản nào. Nếu bạn đăng xuất bây giờ, TẤT CẢ dữ liệu hiện tại sẽ bị mất vĩnh viễn. Bạn vẫn muốn tiếp tục?"
+  },
+  "privacy_policy": {
+    "title": "Chính sách bảo mật",
+    "intro": "Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng, tiết lộ và bảo vệ thông tin của bạn khi bạn sử dụng ứng dụng. Vui lòng đọc kỹ chính sách này.",
+    "data_collection": "1. Thu thập dữ liệu",
+    "data_collection_body": "Chúng tôi có thể thu thập thông tin cá nhân mà bạn tự nguyện cung cấp khi đăng ký hoặc sử dụng một số tính năng. Điều này có thể bao gồm tên, email, dữ liệu sử dụng và thông tin thiết bị.",
+    "data_usage": "2. Cách chúng tôi sử dụng dữ liệu",
+    "data_usage_body": "Dữ liệu thu thập được sử dụng để vận hành các tính năng cốt lõi, cải thiện trải nghiệm người dùng, cá nhân hóa nội dung, cung cấp hỗ trợ, tăng cường bảo mật và tuân thủ các nghĩa vụ pháp lý.",
+    "data_sharing": "3. Chia sẻ dữ liệu",
+    "data_sharing_body": "Chúng tôi không bán thông tin cá nhân của bạn. Chúng tôi có thể chia sẻ dữ liệu hạn chế với các nhà cung cấp dịch vụ nghiêm ngặt cho chức năng ứng dụng (ví dụ: phân tích, báo cáo sự cố) theo nghĩa vụ bảo mật.",
+    "security": "4. Bảo mật",
+    "security_body": "Chúng tôi thực hiện các biện pháp kỹ thuật và tổ chức hợp lý để bảo vệ dữ liệu; tuy nhiên, không có phương pháp truyền hoặc lưu trữ nào an toàn 100%. Người dùng được khuyến khích sử dụng thông tin đăng nhập mạnh và giữ bí mật.",
+    "user_rights": "5. Quyền của bạn",
+    "user_rights_body": "Tùy thuộc vào quyền tài phán, bạn có thể có quyền truy cập, sửa đổi, xóa hoặc hạn chế một số xử lý dữ liệu cá nhân của bạn. Liên hệ hỗ trợ để yêu cầu.",
+    "changes": "6. Thay đổi chính sách này",
+    "changes_body": "Chúng tôi có thể cập nhật chính sách này định kỳ. Các thay đổi quan trọng sẽ được thông báo qua thông báo trong ứng dụng hoặc ghi chú phiên bản. Tiếp tục sử dụng sau khi thay đổi có nghĩa là chấp nhận.",
+    "contact": "7. Liên hệ",
+    "contact_body": "Nếu bạn có câu hỏi hoặc lo ngại về chính sách này, vui lòng liên hệ với chúng tôi qua phần hỗ trợ trong ứng dụng."
+  },
+  "term_of_service": {
+    "title": "Điều khoản dịch vụ",
+    "intro": "Các điều khoản dịch vụ này điều chỉnh việc bạn sử dụng ứng dụng. Bằng cách truy cập hoặc sử dụng ứng dụng, bạn đồng ý bị ràng buộc bởi các điều khoản này.",
+    "license": "1. Giấy phép & Truy cập",
+    "license_body": "Chúng tôi cấp cho bạn giấy phép hạn chế, không chuyển nhượng, có thể thu hồi để sử dụng ứng dụng cho mục đích cá nhân, phi thương mại.",
+    "user_accounts": "2. Tài khoản người dùng",
+    "user_accounts_body": "Bạn chịu trách nhiệm bảo mật thông tin đăng nhập và tất cả các hoạt động dưới tài khoản của bạn.",
+    "acceptable_use": "3. Sử dụng chấp nhận được",
+    "acceptable_use_body": "Không lạm dụng dịch vụ, cố gắng truy cập trái phép, thiết kế ngược hoặc làm gián đoạn chức năng.",
+    "content": "4. Nội dung & Dữ liệu",
+    "content_body": "Bạn giữ quyền đối với nội dung đã gửi; chúng tôi có giấy phép hạn chế để xử lý nó để cung cấp chức năng.",
+    "termination": "5. Đình chỉ & Chấm dứt",
+    "termination_body": "Chúng tôi có thể đình chỉ/chấm dứt vì vi phạm hoặc rủi ro bảo mật. Một số nghĩa vụ vẫn tồn tại sau khi chấm dứt.",
+    "disclaimer": "6. Tuyên bố miễn trừ",
+    "disclaimer_body": "Dịch vụ được cung cấp 'nguyên trạng' mà không có bất kỳ bảo đảm nào.",
+    "limitation": "7. Giới hạn trách nhiệm",
+    "limitation_body": "Trách nhiệm giới hạn trong số tiền đã thanh toán trong 12 tháng trước nếu pháp luật cho phép.",
+    "changes": "8. Thay đổi điều khoản",
+    "changes_body": "Chúng tôi có thể cập nhật định kỳ; tiếp tục sử dụng có nghĩa là chấp nhận.",
+    "contact": "9. Liên hệ",
+    "contact_body": "Có câu hỏi? Liên hệ hỗ trợ qua ứng dụng."
+  },
+  "about": {
+    "title": "Giới thiệu",
+    "executive_summary": "Về ứng dụng này",
+    "executive_summary_body": "Ứng dụng di động hiện đại được xây dựng với React Native và Supabase."
+  },
+  "settings": {
+    "group_title": "Cài đặt",
+    "language_settings": "Cài đặt ngôn ngữ",
+    "language": {
+      "english": "Tiếng Anh",
+      "vietnamese": "Tiếng Việt",
+      "japanese": "Tiếng Nhật"
+    }
+  }
+}
